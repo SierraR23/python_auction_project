@@ -1,1 +1,1 @@
-# python_auction_project
+# python_auction_project This project is an auction project bidding for a painting and whoever bids the highest wins
